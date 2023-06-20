@@ -15,4 +15,4 @@ def busqueda_binaria(lista, elemento):
     return None
 
 
-
+mi_lista = [1,2,3,4,5,6,7]
