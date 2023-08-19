@@ -1,5 +1,5 @@
 print("Segundo archivo!!")
-print("Segundo cambio!!")
+print("Segundo cambio!! aplicar comando diff")
 
 #consultar los commits con 
 #git log y/o git log --graph
