@@ -1,5 +1,5 @@
-import os
+import os 
 
-
-name = os.uname()
+name = os.name()
 print(name)
+
