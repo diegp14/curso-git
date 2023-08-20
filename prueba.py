@@ -1,5 +1,5 @@
 import os 
 
 name = os.name()
-print(name)
+print("(login) SO:", name)
 
