@@ -2,4 +2,4 @@ import os
 
 
 name = os.uname()
-print(name)
+print("(main)", name)
